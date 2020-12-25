@@ -1,0 +1,28 @@
+{
+  "name": "discord-events",
+  "version": "0.0.1",
+  "description": "Ce package vous permet de lancer des événnement sur votre serveur",
+  "main": "main.js",
+  "dependencies": {
+    "events": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Octavia0509/discord-events.git"
+  },
+  "keywords": [
+    "events",
+    "discord-events",
+    "discord"
+  ],
+  "author": "Lucas D.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Octavia0509/discord-events/issues"
+  },
+  "homepage": "https://github.com/Octavia0509/discord-events#readme"
+}
